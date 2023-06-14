@@ -9,9 +9,9 @@ namespace First
     public class Calculator
     {
 
-        public void Addition(int a, int b)
+        public void Addition(int a,int b, int d)
         {
-            Console.WriteLine($"Addition of two numbers {a} + {b}={a+b}");
+            Console.WriteLine($"Addition of two numbers {a} + {b} +{d}={a+b+d}");
         }
     }
 }
