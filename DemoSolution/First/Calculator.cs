@@ -8,7 +8,7 @@ namespace First
 {
     public class Calculatorrr
     {
-        //changes made by Vikas Kanojia
+        //changes made by Vikas Kanojia and pavan frnd
         public void Addition(int a,int b)
         {
             Console.WriteLine($"Addition of two numbers {a} + {b}={a+b}");
