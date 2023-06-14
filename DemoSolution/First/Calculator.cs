@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace First
 {
-    public class Calculator
+    public class Calculatorrr
     {
-
-        public void Addition(int a,int b, int d)
+        //changes made by Vikas Kanojia
+        public void Addition(int a,int b)
         {
-            Console.WriteLine($"Addition of two numbers {a} + {b} +{d}={a+b+d}");
+            Console.WriteLine($"Addition of two numbers {a} + {b}={a+b}");
         }
     }
 }
